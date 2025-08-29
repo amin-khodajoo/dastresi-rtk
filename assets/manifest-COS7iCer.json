@@ -1,0 +1,29 @@
+{
+  "name": "dastresi",
+  "short_name": "dastresi",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "dastresi - Comprehensive Online Services Platform",
+  "id": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#0a5abd",
+  "icons": [
+    {
+      "src": "https://www.svgrepo.com/show/279439/online-shop-ecommerce.svg",
+      "sizes": "800x800"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://amin-khodajoo.github.io/api-dastresi/images/slider4/6.jpg",
+      "sizes": "500x500",
+      "label": "Home screen",
+      "form_factor": "wide"
+    },
+    {
+      "src": "https://amin-khodajoo.github.io/api-dastresi/images/slider4/2.jpg",
+      "sizes": "500x500",
+      "label": "Home screen"
+    }
+  ]
+}
